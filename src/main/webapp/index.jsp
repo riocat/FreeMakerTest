@@ -11,7 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
   <a href="hello">click</a>
   </body>
 </html>
